@@ -1,2 +1,2 @@
 # chat-meteor
-I cannot push local folders
+I can't push local folders in the .meteor
